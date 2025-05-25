@@ -4,7 +4,7 @@
 
 ## 📋 Executive Summary  
 
-An insider threat scenario targeting `windows-target-1` was investigated after an employee on a PIP (John Doe) potentially tried to steal sensitive data. Using Microsoft Defender for Endpoint, we discovered silent installation of 7-Zip, automated archiving of employee records, and exfiltration over HTTPS to an Azure storage account. No USB transfer was used. Immediate containment and remediation steps were taken. 
+An insider threat scenario targeting `ile-vm-threathu` was investigated after an employee on a PIP (John Doe) potentially tried to steal sensitive data. Using Microsoft Defender for Endpoint, we discovered silent installation of 7-Zip, automated archiving of employee records, and exfiltration over HTTPS to an Azure storage account. No USB transfer was used. Immediate containment and remediation steps were taken. 
 
 ---
 
